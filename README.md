@@ -1,3 +1,5 @@
+(A repo linked in the `Deliver Applications with Chef Habitat` tutorial, the further part of it. One is to use it to learn to write a Habitat plan, build and use the package, etc. https://learn.chef.io/courses/course-v1:chef+Habitat101+Perpetual)
+
 # meme-machine
 
 "Make a Learn Chef Meme in this web application.
